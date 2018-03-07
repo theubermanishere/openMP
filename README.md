@@ -1,0 +1,2 @@
+# openMP
+OpenMP scratchpad
